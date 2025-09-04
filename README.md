@@ -1,10 +1,11 @@
-# Hi there, I'm Praveen Kumar! 👋
+# Hi 👋, I'm Praveen Kumar! 
 
 ## 🚀 About Me
 - 🎓 **B.Tech ECE** with **Minor in CS** from **NIT Warangal** 
 - 💻 **Full-Stack MERN Developer** passionate about building scalable web applications
 - 🏆 **1500+ LeetCode rating** with 1000+ problems solved
 - 🌟 **Merit Scholarship recipient** (Top 7% at NIT Warangal)
+- 👉 **Actively seeking Software Engineer roles to build innovative and impactful products
 
 ## 🛠️ Tech Stack
 ```javascript
