@@ -1,7 +1,7 @@
 # Hi there, I'm Praveen Kumar! 👋
 
 ## 🚀 About Me
-- 🎓 **B.Tech ECE** with **Minor in CS** from **NIT Warangal** (CGPA: 8.82/10)
+- 🎓 **B.Tech ECE** with **Minor in CS** from **NIT Warangal** 
 - 💻 **Full-Stack MERN Developer** passionate about building scalable web applications
 - 🏆 **1500+ LeetCode rating** with 1000+ problems solved
 - 🌟 **Merit Scholarship recipient** (Top 7% at NIT Warangal)
@@ -24,7 +24,7 @@ const techStack = {
 - Built comprehensive platform connecting students with launderers
 - Integrated **Razorpay payment gateway** with order management
 - Implemented **real-time notifications** using Socket.IO
-- **Tech:** React.js, Node.js, MongoDB, Razorpay, JWT
+- **Tech:** React.js, Node.js, MongoDB, Express.js, Razorpay, JWT
 
 ### 🏠 [Estate Point](https://github.com/praveenk999/MERN-Real-Estate-App)
 **Real Estate Marketplace Platform**
@@ -38,7 +38,7 @@ const techStack = {
 - Created attendance system with **99.2% accuracy**
 - Implemented real-time face detection with **anti-spoofing**
 - Integrated with Google Sheets for automated reporting
-- **Tech:** Python, OpenCV, Machine Learning, Google APIs
+- **Tech:** Python, OpenCV, Machine Learning
 
 ## 📊 GitHub Stats
 ![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=praveenk999&show_icons=true&theme=radical)
