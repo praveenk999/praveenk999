@@ -5,7 +5,7 @@
 - 💻 **Full-Stack MERN Developer** passionate about building scalable web applications
 - 🏆 **1500+ LeetCode rating** with 1000+ problems solved
 - 🌟 **Merit Scholarship recipient** (Top 7% at NIT Warangal)
-- 👉 **Actively seeking Software Engineer roles to build innovative and impactful products
+- 👉 Actively seeking Software Engineer roles to build innovative and impactful products
 
 ## 🛠️ Tech Stack
 ```javascript
