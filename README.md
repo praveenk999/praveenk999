@@ -40,13 +40,7 @@ const techStack = {
 - Integrated with Google Sheets for automated reporting
 - **Tech:** Python, OpenCV, Machine Learning
 
-
-## 🏆 Achievements
-- 🥇 **Institute Merit Scholarship** - Top 7% of 8000+ students
-- 📈 **JEE Mains 99.47%ile** | **TS EAMCET Rank 450** (Top 0.4%)
-- 💻 **LeetCode 1500+ rating** with consistent problem-solving
-
-
+---
 
 ## 🌐 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-kumar-madarapu/)  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PraveenKumarMadarapu)  
