@@ -10,9 +10,9 @@
 ## 🛠️ Tech Stack
 ```javascript
 const techStack = {
-  Frontend: ["React.js", "JavaScript", "HTML5", "CSS3", "Tailwind CSS"],
-  Backend: ["Node.js", "Express.js", "RESTful APIs", "JWT Authentication"],
-  Database: ["MongoDB", "MySQL"],
+  Frontend: ["React.js", "JavaScript", "HTML5", "CSS3", "Tailwind CSS", "SCSS"],
+  Backend: ["Node.js", "Express.js", "RESTful APIs", "JWT Authentication", "Socket.IO"],
+  Database: ["MongoDB", "MySQL","Redis (caching)"],
   Tools: ["Git", "GitHub", "Postman", "VS Code"],
   Integration: ["Razorpay", "Socket.IO", "Google APIs"]
 }
@@ -21,7 +21,7 @@ const techStack = {
 ## 🚀 Featured Projects
 
 ### 🧺 [LaundryHub](https://github.com/praveenk999/Laundryhub-app)
-**Full-Stack Laundry Management System**
+**Laundry Management System**
 - Built comprehensive platform connecting students with launderers
 - Integrated **Razorpay payment gateway** with order management
 - Implemented **real-time notifications** using Socket.IO
